@@ -23,6 +23,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "cypress": "^3.0.1"
+    "cypress": "^3.0.1",
+    "redux-logger": "^3.0.6"
   }
 }
